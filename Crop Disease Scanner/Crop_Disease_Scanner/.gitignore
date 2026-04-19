@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Flutter/Dart
+.dart_tool/
+.idea/
+build/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Mac/Windows System Files
+.DS_Store
+Thumbs.db
